@@ -1,6 +1,5 @@
 # RoadSim
-RoadSim a simulation of a traffic management system using PyGame, wich models the movement, turning, and stopping of vehicles and pedestrians through an intersection controlled by traffic lights.
-
+RoadSim a simulation of a traffic management system using PyGame. It models the movement, turning, and stopping of vehicles and pedestrians through an intersection controlled by traffic lights.
 
 ## Installation
 
@@ -52,3 +51,7 @@ python main.py
 ### View
 
 - `view/calles.py`: Handles the graphical representation of the streets, vehicles, pedestrians, and traffic lights.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
